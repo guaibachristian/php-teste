@@ -1,3 +1,3 @@
 <?php
-	echo 'Olá, Teste!';
+	echo 'Olá, Teste! Minha APP';
 ?>
